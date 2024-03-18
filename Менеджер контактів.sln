@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Менеджер контактів", "Менеджер контактів.csproj", "{745B4BED-01B7-4BEB-B4D6-AC9BEC962486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745B4BED-01B7-4BEB-B4D6-AC9BEC962486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745B4BED-01B7-4BEB-B4D6-AC9BEC962486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745B4BED-01B7-4BEB-B4D6-AC9BEC962486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745B4BED-01B7-4BEB-B4D6-AC9BEC962486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBB50971-B204-45B1-AB18-7FA663B4B587}
+	EndGlobalSection
+EndGlobal
